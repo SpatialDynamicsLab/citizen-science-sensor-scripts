@@ -1,0 +1,24 @@
+{
+    "name": "SCORE - Jaizkibel Station",
+    "description": "This station is named Jaizkibel, same name of the mountain where is located",
+    "properties": {
+        "CCLL": "Oarsoaldea"
+    },
+    "Locations": [
+        {
+            "name": "Jaizkibel Station",
+            "description": "Gipuzkoa Province, Lezo Municipality",
+            "encodingType": "application/vnd.geo+json",
+            "location": {
+                "type": "Feature",
+                "geometry":{
+                  "type": "Point",
+                  "coordinates": [-1.85972,43.3446]
+                }
+              },
+            "properties": {
+                "CCLL": "Oarsoaldea"
+            }
+        }
+    ]
+}

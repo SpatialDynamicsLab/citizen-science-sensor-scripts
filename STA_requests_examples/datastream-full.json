@@ -1,0 +1,47 @@
+{
+    "name": "Relative humidity at Jaizkibel",
+    "description": "Jaizkibel Station - Relative humidity",
+    "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+    "unitOfMeasurement": {
+        "name": "Percent",
+        "symbol": "%",
+        "definition": "https://qudt.org/vocab/unit/PERCENT"
+    },
+    "properties": {},
+    "Thing": {
+        "name": "SCORE - Jaizkibel Station",
+        "description": "This station is named Jaizkibel, same name of the mountain where is located",
+        "properties": {
+            "CCLL": "Oarsoaldea"
+        },
+        "Locations": [
+            {
+                "name": "Jaizkibel Station",
+                "description": "Gipuzkoa Province, Lezo Municipality",
+                "encodingType": "application/vnd.geo+json",
+                "location": {
+                    "type": "Feature",
+                    "geometry":{
+                      "type": "Point",
+                      "coordinates": [-1.85972,43.3446]
+                    }
+                  },
+                "properties": {
+                    "CCLL": "Oarsoaldea"
+                }
+            }
+        ]
+    },
+    "ObservedProperty": {
+        "name": "Relative humidity",
+        "description": "Relative humidity is the ratio of the partial pressure of water vapor in an air-water mixture to the saturated vapor pressure of water at a prescribed temperature",
+        "definition": "https://qudt.org/vocab/quantitykind/RelativeHumidity"
+    },
+    "Sensor": {
+        "name": "Davis Vantage Pro2 6152C",
+        "description": "Weather station Davis Vantage Pro2",
+        "encodingType": "text/html",
+        "metadata": "https://cdn.shopify.com/s/files/1/0515/5992/3873/files/6152c_6162c_ss.pdf",
+        "properties": {}
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Relative humidity at Jaizkibel",
+    "description": "Jaizkibel Station - Relative humidity",
+    "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+    "unitOfMeasurement": {
+        "name": "Percent",
+        "symbol": "%",
+        "definition": "https://qudt.org/vocab/unit/PERCENT"
+    },
+    "properties": {},
+    "Thing": {
+        "@iot.id": 1
+    },
+    "ObservedProperty": {
+        "@iot.id": 1
+    },
+    "Sensor": {
+        "@iot.id": 1
+    }
+}

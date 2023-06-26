@@ -1,0 +1,5 @@
+{
+    "name": "Relative humidity",
+    "description": "Relative humidity is the ratio of the partial pressure of water vapor in an air-water mixture to the saturated vapor pressure of water at a prescribed temperature",
+    "definition": "https://qudt.org/vocab/quantitykind/RelativeHumidity"
+}
