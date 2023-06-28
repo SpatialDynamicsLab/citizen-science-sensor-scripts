@@ -22,7 +22,7 @@ void loop()
   {
     Serial.print("Pressure reading: ");
     Serial.print(pressure);
-    Serial.println(" mbar");
+    Serial.println(" bar");
   }
   else
   {
