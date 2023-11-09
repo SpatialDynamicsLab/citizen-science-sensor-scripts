@@ -160,3 +160,4 @@ cython_debug/
 .idea/
 
 .DS_Store
+/weather_underground_sensors/data/

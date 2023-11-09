@@ -1,0 +1,5 @@
+requests
+numpy
+pandas
+beautifulsoup4
+selenium
